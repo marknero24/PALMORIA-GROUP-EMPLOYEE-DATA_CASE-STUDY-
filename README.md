@@ -53,8 +53,7 @@ The management mandated a comprehensive HR analytics project to:
 ###  Ratings Based on Gender  
 - No significant gender bias in performance ratings.
 - Slight male advantage in “Good” and “Excellent” categories within Legal and Support departments.
-
----
+<img width="876" height="450" alt="Image" src="https://github.com/user-attachments/assets/26f41357-641a-41e9-b184-35770f38128b" />
 
 ###  Salary Structure & Gender Pay Gap  
 - Pay disparities exist in Legal, Product Management, and Support departments, favoring males.
