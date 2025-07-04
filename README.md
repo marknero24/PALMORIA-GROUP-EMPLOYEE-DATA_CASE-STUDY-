@@ -39,7 +39,8 @@ The management mandated a comprehensive HR analytics project to:
 - **Overall:** Balanced (464 males, 440 females)  
 - **By Region:**  
   - Abuja: perfectly balanced  
-  - Kaduna & Lagos: slightly male-dominant  
+  - Kaduna & Lagos: slightly male-dominant
+    <img width="804" height="484" alt="Image" src="https://github.com/user-attachments/assets/40b7cbe4-1245-420a-acd9-b51d03880457" />  
 
 - **By Department:**  
   - Legal & Support: male-dominated  
